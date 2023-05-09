@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @sjharper79
 - 👀 I’m interested in Java Programming, 3DPrinting, Electronics, Building things like sheds, playhouses, and home offices, and playing some video games.
-- 🌱 I’m currently learning Java programming using eclipse.
+- 🌱 I’m currently learning Azure DevOps. 
+- I am a Cloud Architect for a large government agency.
 
 
 <!---
