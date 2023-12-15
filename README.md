@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sjharper79
 - 👀 I’m interested in Java Programming, 3DPrinting, Electronics, Building things like sheds, playhouses, and home offices, and playing some video games.
-- 🌱 I’m currently learning Azure DevOps. 
+- 🌱 I’m currently learning C# Development using [Mark J. Price's](https://github.com/markjprice) books from [Packt Publishing](https://www.packtpub.com/). 
 - I am a Cloud Architect for a large government agency.
 
 
