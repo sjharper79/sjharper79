@@ -3,7 +3,7 @@
   - Java and C# programming
   - DevOps
   - Reading Techinical and Non-Technical books
-    Follow my Goodreads profile here [GoodReads Profile][https://www.goodreads.com/user/show/50085113-stephen-harper]
+    Follow my Goodreads profile here [GoodReads Profile](https://www.goodreads.com/user/show/50085113-stephen-harper)
   
 - I am a Cloud Architect for a large government agency.
 
