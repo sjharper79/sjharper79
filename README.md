@@ -3,12 +3,12 @@
 - I am a Cloud Architect for a large government agency.
 
 - I have the following certifications
--   Microsoft Certified Azure Fundamentals
--   Microsoft Certified Azure Administrator Associate
--   Microsoft Certified Azure Architect Expert
--   Microsoft Certified Azure Security Engineer Associate
--   Red Hat Certified Systems Administrator
--   Red Hat Certified Engineer
+  - Microsoft Certified Azure Fundamentals
+  - Microsoft Certified Azure Administrator Associate
+  - Microsoft Certified Azure Architect Expert
+  - Microsoft Certified Azure Security Engineer Associate
+  - Red Hat Certified Systems Administrator
+  - Red Hat Certified Engineer
 
 - I am also a Mensa USA member.
 
