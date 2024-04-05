@@ -1,5 +1,10 @@
 - 👋 Hi, I’m @sjharper79
-- 👀 I’m interested in Java Programming, 3DPrinting, Electronics, Building things like sheds, playhouses, and home offices, and playing some video games.
+- 👀 My interests include
+  - Java and C# programming
+  - DevOps
+  - Reading Techinical and Non-Technical books
+    Follow my Goodreads profile here [GoodReads Profile][https://www.goodreads.com/user/show/50085113-stephen-harper]
+  
 - I am a Cloud Architect for a large government agency.
 
 - I have the following certifications
