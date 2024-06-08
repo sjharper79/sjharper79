@@ -12,8 +12,10 @@
   - Microsoft Certified Azure Administrator Associate
   - Microsoft Certified Azure Architect Expert
   - Microsoft Certified Azure Security Engineer Associate
+  - Microsoft Certified Azure DevOps Engineer Expert
   - Red Hat Certified Systems Administrator
   - Red Hat Certified Engineer
+  - AWS Certified Cloud Practitioner
 
 - I am also a Mensa USA member.
 
