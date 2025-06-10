@@ -13,6 +13,10 @@
   - Microsoft Certified Azure Architect Expert
   - Microsoft Certified Azure Security Engineer Associate
   - Microsoft Certified Azure DevOps Engineer Expert
+  - AWS Certified Cloud Practitioner
+  - AWS Certified Solutions Architect - Associate
+  - Google Cloud Platform Digital Cloud Leader
+  - Google Cloud Platform Associate Cloud Engineer
   - Red Hat Certified Systems Administrator
   - Red Hat Certified Engineer
   - AWS Certified Cloud Practitioner
