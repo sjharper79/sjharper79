@@ -3,6 +3,7 @@
   - Reading
     -   Follow my Goodreads profile here [Steve Harper on GoodReads](https://www.goodreads.com/user/show/50085113-stephen-harper)
   - 3D Printing
+    -  Look at my timelapses here [Instagram Timelapses](https://www.instagram.com/sjharper308/)
   - Electronics
     
     
