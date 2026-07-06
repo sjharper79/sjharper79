@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sjharper79
 - 👀 My interests include
   - Reading
-  -   Follow my Goodreads profile here [Steve Harper on GoodReads](https://www.goodreads.com/user/show/50085113-stephen-harper)
+    -   Follow my Goodreads profile here [Steve Harper on GoodReads](https://www.goodreads.com/user/show/50085113-stephen-harper)
   - 3D Printing
   - Electronics
     
