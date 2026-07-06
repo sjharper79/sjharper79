@@ -2,7 +2,7 @@
 - 👀 My interests include
   - Reading
   - 3D Printing
-  - Electronics
+  - Electronics 
     Follow my Goodreads profile here [Steve Harper on GoodReads](https://www.goodreads.com/user/show/50085113-stephen-harper)
 
 - I have the following certifications
