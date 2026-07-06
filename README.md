@@ -1,11 +1,9 @@
 - 👋 Hi, I’m @sjharper79
 - 👀 My interests include
-  - Java and C# programming
-  - DevOps
-  - Reading Techinical and Non-Technical books
+  - Reading
+  - 3D Printing
+  - Electronics
     Follow my Goodreads profile here [Steve Harper on GoodReads](https://www.goodreads.com/user/show/50085113-stephen-harper)
-  
-- I am a Cloud Architect for a large government agency.
 
 - I have the following certifications
   - Microsoft Certified Azure Fundamentals
